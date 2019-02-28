@@ -1,0 +1,14 @@
+.table {
+    border: 2px solid black;
+}
+.tHeading, .tInput {
+    padding: 15px;
+}
+
+.tHeading {
+    text-align: left;
+}
+.tInputTrue {
+    text-align: left;
+    text-decoration: line-through;
+}
