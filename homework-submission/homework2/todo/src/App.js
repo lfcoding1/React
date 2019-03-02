@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import List from './List.js';
 import PostList from './posts/PostList';
-import PostData from './data/posts.json';
 import './App.css';
 
 //component that populates h2 titles to the Todo App//
