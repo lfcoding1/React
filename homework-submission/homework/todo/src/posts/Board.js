@@ -81,7 +81,7 @@ class Board extends Component {
     render() {
         return (
             <div className="board">
-                <button onClick={this.add.bind(null, "New Note")}
+                <button className= 'add' onClick={this.add.bind(null, "New Note")}
                     id="add">Add</button>
                 {this.state.items.map(this.eachItem)}
             </div>
