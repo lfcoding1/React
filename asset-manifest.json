@@ -1,14 +1,14 @@
 {
-  "main.css": "/React/static/css/main.99e8f196.chunk.css",
-  "main.js": "/React/static/js/main.c4b6df39.chunk.js",
-  "main.js.map": "/React/static/js/main.c4b6df39.chunk.js.map",
-  "runtime~main.js": "/React/static/js/runtime~main.61a9096e.js",
-  "runtime~main.js.map": "/React/static/js/runtime~main.61a9096e.js.map",
-  "static/js/2.12f68982.chunk.js": "/React/static/js/2.12f68982.chunk.js",
-  "static/js/2.12f68982.chunk.js.map": "/React/static/js/2.12f68982.chunk.js.map",
-  "index.html": "/React/index.html",
-  "precache-manifest.1354c4fc98bfe5498d11c94a31ab3d6d.js": "/React/precache-manifest.1354c4fc98bfe5498d11c94a31ab3d6d.js",
-  "service-worker.js": "/React/service-worker.js",
-  "static/css/main.99e8f196.chunk.css.map": "/React/static/css/main.99e8f196.chunk.css.map",
-  "static/media/App.css": "/React/static/media/chalkboard.e0d57e35.jpg"
+  "main.css": "/React/master/homework-submission/homework/todo/static/css/main.2a35ded4.chunk.css",
+  "main.js": "/React/master/homework-submission/homework/todo/static/js/main.ba313b42.chunk.js",
+  "main.js.map": "/React/master/homework-submission/homework/todo/static/js/main.ba313b42.chunk.js.map",
+  "runtime~main.js": "/React/master/homework-submission/homework/todo/static/js/runtime~main.b742d693.js",
+  "runtime~main.js.map": "/React/master/homework-submission/homework/todo/static/js/runtime~main.b742d693.js.map",
+  "static/js/2.12f68982.chunk.js": "/React/master/homework-submission/homework/todo/static/js/2.12f68982.chunk.js",
+  "static/js/2.12f68982.chunk.js.map": "/React/master/homework-submission/homework/todo/static/js/2.12f68982.chunk.js.map",
+  "index.html": "/React/master/homework-submission/homework/todo/index.html",
+  "precache-manifest.44c7ea88341d744c277892d3693f4261.js": "/React/master/homework-submission/homework/todo/precache-manifest.44c7ea88341d744c277892d3693f4261.js",
+  "service-worker.js": "/React/master/homework-submission/homework/todo/service-worker.js",
+  "static/css/main.2a35ded4.chunk.css.map": "/React/master/homework-submission/homework/todo/static/css/main.2a35ded4.chunk.css.map",
+  "static/media/App.css": "/React/master/homework-submission/homework/todo/static/media/chalkboard.e0d57e35.jpg"
 }
