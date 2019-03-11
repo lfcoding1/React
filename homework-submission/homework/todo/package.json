@@ -2,8 +2,8 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lfcoding1.github.io/React",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-responsive-decorator": "0.0.1",
