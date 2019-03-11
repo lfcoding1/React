@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import Item from './Item'
 
 
+
+
 class Board extends Component {
     constructor(props){
         super(props)
@@ -34,15 +36,15 @@ class Board extends Component {
         this.update = this.update.bind(this)
     }
 
-    add(text, Date,) {
+    add(_newText){
         console.log('adding new note')
         this.setState(prevState => ({
             items: [
                 ...prevState.items,
                 {
                     "id": this.nextId(),
-                    "description": text,
-                    "deadline": "",
+                    "description": _newText,
+                    "deadline": ""
                 }
             ]
         }))
@@ -60,10 +62,12 @@ class Board extends Component {
         }))
     }
 
-    update(newText, id) {
+    update(_newText, id) {
+        console.log('updating item at index', id, _newText)
         this.setState(prevState => ({
             items: prevState.items.map(
-                item => (item.id !== id) ? item: {...item, item: newText}
+                description => (description.id !== id) ? description: {...description, description: _newText},
+                
             )
         }))
     }
@@ -81,7 +85,7 @@ class Board extends Component {
     render() {
         return (
             <div className="board">
-                <button className= 'add' onClick={this.add.bind(null, "New Note")}
+                <button className= 'add' onClick={this.add.bind(null, "Click edit to add your item")}
                     id="add">Add</button>
                 {this.state.items.map(this.eachItem)}
             </div>
