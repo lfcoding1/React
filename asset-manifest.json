@@ -1,14 +1,14 @@
 {
-  "main.css": "/React/homework-submission/homework/todo/public/static/css/main.47192a37.chunk.css",
-  "main.js": "/React/homework-submission/homework/todo/public/static/js/main.e27cfb49.chunk.js",
-  "main.js.map": "/React/homework-submission/homework/todo/public/static/js/main.e27cfb49.chunk.js.map",
-  "runtime~main.js": "/React/homework-submission/homework/todo/public/static/js/runtime~main.78f871bf.js",
-  "runtime~main.js.map": "/React/homework-submission/homework/todo/public/static/js/runtime~main.78f871bf.js.map",
-  "static/js/2.12f68982.chunk.js": "/React/homework-submission/homework/todo/public/static/js/2.12f68982.chunk.js",
-  "static/js/2.12f68982.chunk.js.map": "/React/homework-submission/homework/todo/public/static/js/2.12f68982.chunk.js.map",
-  "index.html": "/React/homework-submission/homework/todo/public/index.html",
-  "precache-manifest.1a70f063bf627330c7605913d0e0c854.js": "/React/homework-submission/homework/todo/public/precache-manifest.1a70f063bf627330c7605913d0e0c854.js",
-  "service-worker.js": "/React/homework-submission/homework/todo/public/service-worker.js",
-  "static/css/main.47192a37.chunk.css.map": "/React/homework-submission/homework/todo/public/static/css/main.47192a37.chunk.css.map",
-  "static/media/App.css": "/React/homework-submission/homework/todo/public/static/media/chalkboard.e0d57e35.jpg"
+  "main.css": "/React/homework-submission/homework/todo/public/src/static/css/main.75e822a1.chunk.css",
+  "main.js": "/React/homework-submission/homework/todo/public/src/static/js/main.32da41c7.chunk.js",
+  "main.js.map": "/React/homework-submission/homework/todo/public/src/static/js/main.32da41c7.chunk.js.map",
+  "runtime~main.js": "/React/homework-submission/homework/todo/public/src/static/js/runtime~main.1ef2fd09.js",
+  "runtime~main.js.map": "/React/homework-submission/homework/todo/public/src/static/js/runtime~main.1ef2fd09.js.map",
+  "static/js/2.12f68982.chunk.js": "/React/homework-submission/homework/todo/public/src/static/js/2.12f68982.chunk.js",
+  "static/js/2.12f68982.chunk.js.map": "/React/homework-submission/homework/todo/public/src/static/js/2.12f68982.chunk.js.map",
+  "index.html": "/React/homework-submission/homework/todo/public/src/index.html",
+  "precache-manifest.9c26488af9d2725a93f14ceb54534778.js": "/React/homework-submission/homework/todo/public/src/precache-manifest.9c26488af9d2725a93f14ceb54534778.js",
+  "service-worker.js": "/React/homework-submission/homework/todo/public/src/service-worker.js",
+  "static/css/main.75e822a1.chunk.css.map": "/React/homework-submission/homework/todo/public/src/static/css/main.75e822a1.chunk.css.map",
+  "static/media/App.css": "/React/homework-submission/homework/todo/public/src/static/media/chalkboard.e0d57e35.jpg"
 }
