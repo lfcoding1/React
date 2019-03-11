@@ -1,14 +1,14 @@
 {
-  "main.css": "/React/homework-submission/homework/todo/public/src/static/css/main.75e822a1.chunk.css",
-  "main.js": "/React/homework-submission/homework/todo/public/src/static/js/main.32da41c7.chunk.js",
-  "main.js.map": "/React/homework-submission/homework/todo/public/src/static/js/main.32da41c7.chunk.js.map",
-  "runtime~main.js": "/React/homework-submission/homework/todo/public/src/static/js/runtime~main.1ef2fd09.js",
-  "runtime~main.js.map": "/React/homework-submission/homework/todo/public/src/static/js/runtime~main.1ef2fd09.js.map",
-  "static/js/2.12f68982.chunk.js": "/React/homework-submission/homework/todo/public/src/static/js/2.12f68982.chunk.js",
-  "static/js/2.12f68982.chunk.js.map": "/React/homework-submission/homework/todo/public/src/static/js/2.12f68982.chunk.js.map",
-  "index.html": "/React/homework-submission/homework/todo/public/src/index.html",
-  "precache-manifest.9c26488af9d2725a93f14ceb54534778.js": "/React/homework-submission/homework/todo/public/src/precache-manifest.9c26488af9d2725a93f14ceb54534778.js",
-  "service-worker.js": "/React/homework-submission/homework/todo/public/src/service-worker.js",
-  "static/css/main.75e822a1.chunk.css.map": "/React/homework-submission/homework/todo/public/src/static/css/main.75e822a1.chunk.css.map",
-  "static/media/App.css": "/React/homework-submission/homework/todo/public/src/static/media/chalkboard.e0d57e35.jpg"
+  "main.css": "/React/static/css/main.99e8f196.chunk.css",
+  "main.js": "/React/static/js/main.c4b6df39.chunk.js",
+  "main.js.map": "/React/static/js/main.c4b6df39.chunk.js.map",
+  "runtime~main.js": "/React/static/js/runtime~main.61a9096e.js",
+  "runtime~main.js.map": "/React/static/js/runtime~main.61a9096e.js.map",
+  "static/js/2.12f68982.chunk.js": "/React/static/js/2.12f68982.chunk.js",
+  "static/js/2.12f68982.chunk.js.map": "/React/static/js/2.12f68982.chunk.js.map",
+  "index.html": "/React/index.html",
+  "precache-manifest.1354c4fc98bfe5498d11c94a31ab3d6d.js": "/React/precache-manifest.1354c4fc98bfe5498d11c94a31ab3d6d.js",
+  "service-worker.js": "/React/service-worker.js",
+  "static/css/main.99e8f196.chunk.css.map": "/React/static/css/main.99e8f196.chunk.css.map",
+  "static/media/App.css": "/React/static/media/chalkboard.e0d57e35.jpg"
 }

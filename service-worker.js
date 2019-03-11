@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React/homework-submission/homework/todo/public/src/precache-manifest.9c26488af9d2725a93f14ceb54534778.js"
+  "/React/precache-manifest.1354c4fc98bfe5498d11c94a31ab3d6d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/React/homework-submission/homework/todo/public/src/index.html", {
+workbox.routing.registerNavigationRoute("/React/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
