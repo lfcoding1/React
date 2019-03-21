@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import List from './List.js';
 import PostList from './posts/PostList';
 import './App.css';
 
@@ -18,8 +17,6 @@ class App extends Component {
       return (
         <div className = "App">
         <h1>To Do App</h1>
-        <Message msg="Static List" />
-        <List />
         <Message msg="Dynamic List" />
         <PostList  />
         </div>
